@@ -9,5 +9,4 @@ public class BirbnbAhkApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BirbnbAhkApplication.class, args);
 	}
-
 }
