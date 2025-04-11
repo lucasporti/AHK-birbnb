@@ -1,5 +1,7 @@
-package dds.birbnb_ahk.entities;
+package dds.birbnb_ahk.entities.notificaciones;
 
+import dds.birbnb_ahk.entities.reservas.EstadoReserva;
+import dds.birbnb_ahk.entities.reservas.Reserva;
 import lombok.Getter;
 import lombok.Setter;
 
