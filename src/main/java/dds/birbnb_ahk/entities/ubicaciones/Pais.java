@@ -15,4 +15,8 @@ public class Pais {
 
     @Column(name = "nombre", columnDefinition = "VARCHAR(50)")
     private String nombre;
+
+    public Pais(String nombre) {
+        this.nombre = nombre;
+    }
 }
